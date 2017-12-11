@@ -110,4 +110,4 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 4
 
-![Plot 4]https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot4.png)
+![Plot 4](https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot4.png)
