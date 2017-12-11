@@ -95,19 +95,19 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![alt text](https://github.com/mallinookala03/exploratory-data-analysis/plo1.png)
+![Plot 1](https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot1.png)
 
 
 ### Plot 2
 
-![alt text](https://github.com/mallinookala03/exploratory-data-analysis/plo2.png)
+![Plot 2](https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot2.png)
 
 
 ### Plot 3
 
-![alt text](https://github.com/mallinookala03/exploratory-data-analysis/plo3.png) 
+![Plot 3](https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot3.png) 
 
 
 ### Plot 4
 
-![alt text](https://github.com/mallinookala03/exploratory-data-analysis/plo4.png)
+![Plot 4]https://github.com/mallinookala03/exploratory-data-analysis/blob/master/plot4.png)
